@@ -14,12 +14,17 @@ Install go-server-json
   cd go-server-json
 ```
     
-## Running Tests
+## Running Server
 
-To run tests, run the following command
+To run server, run the following command
 
 ```bash
   go run server.go
+```
+## Access rest api
+
+```bash
+  curl localhost:8080/post | jq
 ```
 
 
