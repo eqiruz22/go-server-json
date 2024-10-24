@@ -11,7 +11,7 @@ Install go-server-json
 
 ```bash
   git clone git@github.com:eqiruz22/go-server-json.git
-  cd my-project
+  cd go-server-json
 ```
     
 ## Running Tests
